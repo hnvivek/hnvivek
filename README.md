@@ -1,9 +1,6 @@
 ### Hi there 👋
 
-<!--
-**hnvivek/hnvivek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
----
-## I'm a Data Analytics Student with 2.6 yrs of experience.
+## My name is Vivek, I'm a Data Analytics Student with 2.6 yrs of experience.
 
 - 🔭 I’m currently working on a my final year project!
 - 🌱 I’m currently learning Fullstack and Machine Learning
@@ -135,4 +132,4 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 [instagram]: https://www.instagram.com/vivek_narayann/
 [linkedin]: https://www.linkedin.com/in/viveknarayanareddy/
 
--->
+
