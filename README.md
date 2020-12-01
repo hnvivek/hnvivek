@@ -102,11 +102,11 @@
 -->
 
 ---
-
-## 📝 Latest Blog Posts
 <!--
-These are my latest posts on [Medium](https://medium.com/@sabesan96) and [Dev.to](https://dev.to/thesabesan):
+## 📝 Latest Blog Posts
 
+These are my latest posts on [Medium](https://medium.com/@sabesan96) and [Dev.to](https://dev.to/thesabesan):
+-->
 ### Medium
 
 <!-- MEDIUM:START -->
@@ -117,8 +117,6 @@ These are my latest posts on [Medium](https://medium.com/@sabesan96) and [Dev.to
 <!-- DEVTO:START -->
 <!-- DEVTO:END -->
 
--->
-
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
 <a href="https://github.com/hnvivek">
@@ -127,6 +125,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=hnvivek&layout=compact&theme=radical" />
 </a>
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=hnvivek/hnvivek)
 ---
 
 [website]: https://public.tableau.com/profile/vivek2206#!/
@@ -134,5 +133,6 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 [facebook]: https://www.facebook.com/vivekjosephite/
 [instagram]: https://www.instagram.com/vivek_narayann/
 [linkedin]: https://www.linkedin.com/in/viveknarayanareddy/
+
 
 
