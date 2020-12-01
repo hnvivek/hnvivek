@@ -2,7 +2,7 @@
 
 <!--
 **hnvivek/hnvivek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+---
 ## I'm a Data Analytics Student with 2.6 yrs of experience.
 
 - 🔭 I’m currently working on a my final year project!
@@ -117,7 +117,7 @@ These are my latest posts on [Medium](https://medium.com/@sabesan96) and [Dev.to
 <!-- DEVTO:START -->
 <!-- DEVTO:END -->
 
----
+
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
