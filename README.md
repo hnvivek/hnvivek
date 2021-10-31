@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-## My name is Vivek, I'm a Data Analytics Student with 2.6 yrs of experience.
+## My name is Vivek, I'm a Data Analytics Student with 4 yrs of experience.
 
 - 🔭 I’m currently working on a my final year project!
 - 🌱 I’m currently learning Fullstack and Machine Learning
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: hnvivek@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to play cricket and listen music.
