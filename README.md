@@ -5,7 +5,6 @@
 - 🔭 I’m currently working on a my final year project!
 - 🌱 I’m currently learning Fullstack and Machine Learning
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
 - 📫 How to reach me: hnvivek@gmail.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love to play cricket and listen music.
