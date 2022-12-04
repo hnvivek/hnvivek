@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-## My name is Vivek, I'm a Data Analytics Student with 4 yrs of experience.
+## My name is Vivek, Data analytics & ML enthusiast | Master's in Data Analytics | 6 Yrs Experience building dashboards using Tableau, Power BI, Data Studio | Hands-on experience with Python, SQL, and AWS
 
 - 🔭 I’m currently working on a my final year project!
 - 🌱 I’m currently learning Fullstack and Machine Learning
