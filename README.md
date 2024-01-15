@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Vivek, a Data Scientist with a passion for Data Analytics & Machine Learning
 
-Welcome to my profile! I am an experienced Technical Architect specializing in designing and building custom applications that cater to various business needs. With a Master's degree in Data Analytics and expertise in Machine Learning, I have a unique combination of skills that allows me to work at the intersection of technology and data.
+Welcome to my profile! I am an experienced Data Scientist specializing in designing and building custom applications that cater to various business needs. With a Master's degree in Data Analytics and expertise in Machine Learning, I have a unique combination of skills that allows me to work at the intersection of technology and data.
 
 ## What I Do
 
