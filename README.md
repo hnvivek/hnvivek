@@ -4,7 +4,7 @@ Welcome to my profile! I am an experienced Data Scientist specializing in design
 
 ## What I Do
 
-As a Technical Architect, I take pride in creating robust and scalable data solutions. I design and build data models that serve as the foundation for extracting valuable insights from complex datasets. Building data pipelines is one of my key strengths, ensuring seamless data flow and integration across systems.
+As a Data Scientist, I take pride in creating robust and scalable data solutions. I design and build data models that serve as the foundation for extracting valuable insights from complex datasets. Building data pipelines is one of my key strengths, ensuring seamless data flow and integration across systems.
 
 My love for data storytelling comes to life when I develop interactive dashboards that breathe life into data. I believe in crafting engaging visualizations that help businesses make data-driven decisions with confidence.
 
