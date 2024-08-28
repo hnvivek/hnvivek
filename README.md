@@ -22,7 +22,6 @@ Let's connect and collaborate! You can find me on various platforms:
 [facebook]: https://www.facebook.com/vivekjosephite/
 [twitter]: https://twitter.com/hnvivek
 [linkedin]: https://www.linkedin.com/in/viveknarayanareddy/
-[instagram]: https://www.instagram.com/vivek_narayann/
 
 <br />
 <br />
