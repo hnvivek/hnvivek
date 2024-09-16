@@ -1,12 +1,12 @@
-# Hi there! 👋 I'm Vivek, a Data Scientist with a passion for Data Analytics & Machine Learning
+# Hi there! 👋 I'm Vivek, a Machine Learning Engineer with a passion for Data Analytics & Machine Learning
 
-Welcome to my profile! I am an experienced Data Scientist specializing in designing and building custom applications that cater to various business needs. With a Master's degree in Data Analytics and expertise in Machine Learning, I have a unique combination of skills that allows me to work at the intersection of technology and data.
+Welcome to my profile! I specialize in developing innovative solutions that harness the power of data to solve business challenges. With a Master's degree in Data Analytics and extensive experience in Machine Learning, I bring a unique blend of technical and analytical expertise to every project.
 
 ## What I Do
 
-As a Data Scientist, I take pride in creating robust and scalable data solutions. I design and build data models that serve as the foundation for extracting valuable insights from complex datasets. Building data pipelines is one of my key strengths, ensuring seamless data flow and integration across systems.
+As a Machine Learning Engineer, I create advanced algorithms and models that extract meaningful insights from complex datasets. I focus on building scalable machine learning systems that can handle large volumes of data efficiently. One of my core strengths is designing end-to-end data pipelines that ensure seamless data processing and integration.
 
-My love for data storytelling comes to life when I develop interactive dashboards that breathe life into data. I believe in crafting engaging visualizations that help businesses make data-driven decisions with confidence.
+I also excel in developing intuitive dashboards and visualizations that make data accessible and actionable. These tools help businesses leverage their data to make informed, strategic decisions.
 
 ## Connect with Me
 
@@ -16,7 +16,6 @@ Let's connect and collaborate! You can find me on various platforms:
 [<img align="left" alt="Facebook" title="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Twitter" title="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="LinkedIn" title="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Instagram" title="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [website]: https://public.tableau.com/profile/vivek2206#!/
 [facebook]: https://www.facebook.com/vivekjosephite/
