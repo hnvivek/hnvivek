@@ -8,6 +8,22 @@ As a Machine Learning Engineer, I create advanced algorithms and models that ext
 
 I also excel in developing intuitive dashboards and visualizations that make data accessible and actionable. These tools help businesses leverage their data to make informed, strategic decisions.
 
+## Recent Applications
+
+### App 1: Job Resume Match
+![Job Resume Match](assets/keyword_analysis.PNG)) 
+Match your resume with any job description and download the report. Also, generate a keyword-optimized cover letter for a given job description.
+
+- **Access Link**: [Job Resume Match](https://job-resume-match-production.up.railway.app/)
+
+---
+
+### App 2: LLM Text to SQL Query Dashboard
+![LLM Text to SQL Query Dashboard](assets/llm-2-sql.PNG) 
+A cutting-edge data analysis tool that leverages the power of Large Language Models (LLMs) to transform natural language queries into SQL, providing effortless insights into food delivery data.
+
+- **Access Link**: [LLM Text to SQL Query Dashboard](https://llm-text-2-sql-query-dashboard-production.up.railway.app/)
+
 ## Connect with Me
 
 Let's connect and collaborate! You can find me on various platforms:
