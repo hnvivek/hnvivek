@@ -10,19 +10,11 @@ I also excel in developing intuitive dashboards and visualizations that make dat
 
 ## Recent Applications
 
-### App 1: Job Resume Match
-![Job Resume Match](assets/keyword_analysis.PNG)) 
-Match your resume with any job description and download the report. Also, generate a keyword-optimized cover letter for a given job description.
+| Project Name | Description | Image |
+|--------------|-------------|-------|
+| [Job Resume Match](https://job-resume-match-production.up.railway.app/) | Match your resume with any job description and download the report. Also, generate a keyword-optimized cover letter for a given job description. | <img src="assets/keyword_analysis.PNG" width="200"/> |
+| [LLM Text to SQL Query Dashboard](https://llm-text-2-sql-query-dashboard-production.up.railway.app/) | A cutting-edge data analysis tool that leverages the power of Large Language Models (LLMs) to transform natural language queries into SQL, providing effortless insights into food delivery data. | <img src="assets/llm-2-sql.PNG" width="200"/> |
 
-- **Access Link**: [Job Resume Match](https://job-resume-match-production.up.railway.app/)
-
----
-
-### App 2: LLM Text to SQL Query Dashboard
-![LLM Text to SQL Query Dashboard](assets/llm-2-sql.PNG) 
-A cutting-edge data analysis tool that leverages the power of Large Language Models (LLMs) to transform natural language queries into SQL, providing effortless insights into food delivery data.
-
-- **Access Link**: [LLM Text to SQL Query Dashboard](https://llm-text-2-sql-query-dashboard-production.up.railway.app/)
 
 ## Connect with Me
 
