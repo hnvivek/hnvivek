@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Vivek, a Machine Learning Engineer with a passion for Data Analytics & Machine Learning
+# Hi there! 👋 I'm Vivek, a Senior Engineer with a passion for Data Analytics & Machine Learning
 
 Welcome to my profile! I specialize in developing innovative solutions that harness the power of data to solve business challenges. With a Master's degree in Data Analytics and extensive experience in Machine Learning, I bring a unique blend of technical and analytical expertise to every project.
 
