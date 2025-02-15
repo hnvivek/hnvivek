@@ -4,7 +4,7 @@ Welcome to my profile! I specialize in developing innovative solutions that harn
 
 ## What I Do
 
-As a Machine Learning Engineer, I create advanced algorithms and models that extract meaningful insights from complex datasets. I focus on building scalable machine learning systems that can handle large volumes of data efficiently. One of my core strengths is designing end-to-end data pipelines that ensure seamless data processing and integration.
+As a Senior Engineer, I create advanced algorithms and models that extract meaningful insights from complex datasets. I focus on building scalable machine learning systems that can handle large volumes of data efficiently. One of my core strengths is designing end-to-end data pipelines that ensure seamless data processing and integration.
 
 I also excel in developing intuitive dashboards and visualizations that make data accessible and actionable. These tools help businesses leverage their data to make informed, strategic decisions.
 
