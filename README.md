@@ -16,20 +16,6 @@ I also excel in developing intuitive dashboards and visualizations that make dat
 | [LLM Text to SQL Query Dashboard](https://llm-text-2-sql-query-dashboard-production.up.railway.app/) | A cutting-edge data analysis tool that leverages the power of Large Language Models (LLMs) to transform natural language queries into SQL, providing effortless insights into food delivery data. | <img src="assets/llm-2-sql.PNG" width="200"/> |
 
 
-## Connect with Me
-
-Let's connect and collaborate! You can find me on various platforms:
-
-[<img align="left" alt="Website" title="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="Facebook" title="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="Twitter" title="Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="LinkedIn" title="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[website]: https://public.tableau.com/profile/vivek2206#!/
-[facebook]: https://www.facebook.com/vivekjosephite/
-[twitter]: https://twitter.com/hnvivek
-[linkedin]: https://www.linkedin.com/in/viveknarayanareddy/
-
 <br />
 <br />
 
